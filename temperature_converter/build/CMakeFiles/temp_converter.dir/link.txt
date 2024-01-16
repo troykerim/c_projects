@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/temp_converter.dir/temp_converter.c.o -o temp_converter 

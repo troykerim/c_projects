@@ -51,7 +51,7 @@ Module.symvers
 Mkfile.old
 dkms.conf
 
-c_projects/c_projects/*
-!c_projects/c_projects
-c_projects/c_projects/temperature_converter/*
-!c_projects/c_projects/temperature_converter/temp_converter.c
+# c_projects/c_projects/*
+# !c_projects/c_projects
+# c_projects/c_projects/temperature_converter/*
+# !c_projects/c_projects/temperature_converter/temp_converter.c

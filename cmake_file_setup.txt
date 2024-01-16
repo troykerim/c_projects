@@ -1,0 +1,26 @@
+The purpose of this text file is contain the template for 
+the CMakeLists.txt files that will be in each folder used to build each C file
+
+# Set minimum required version of CMake
+cmake_minimum_required(VERSION 3.12)
+
+# Set name of project (as PROJECT_NAME) and C/C++ standards
+project(name_C_file C CXX ASM)
+set(CMAKE_C_STANDARD 11)
+set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
+# Tell CMake where to find the executable source file
+add_executable(${PROJECT_NAME}
+    name_C_file.c
+)
+
+
+Other setup processes are the following:
+1. Create a folder for the mini project
+2. Create the CMakeLists.txt
+3. mkdir build 
+4. cd build
+5. run the command: cmake ..
+6. Then run the command: make
+7. Lastly to see if the C project works, run the command: ./name_C_file

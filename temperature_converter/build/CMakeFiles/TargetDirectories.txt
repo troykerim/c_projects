@@ -1,0 +1,3 @@
+/home/troy/c_projects/c_projects/temperature_converter/build/CMakeFiles/temp_converter.dir
+/home/troy/c_projects/c_projects/temperature_converter/build/CMakeFiles/edit_cache.dir
+/home/troy/c_projects/c_projects/temperature_converter/build/CMakeFiles/rebuild_cache.dir

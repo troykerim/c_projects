@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/troy/c_projects/c_projects/temperature_converter/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/temp_converter.dir/temp_converter.c.o -c /home/troy/c_projects/c_projects/temperature_converter/temp_converter.c",
+  "file": "/home/troy/c_projects/c_projects/temperature_converter/temp_converter.c"
+}
+]
