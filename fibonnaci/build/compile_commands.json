@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/troy/c_projects/c_projects/fibonnaci/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/fibonnaci.dir/fibonnaci.c.o -c /home/troy/c_projects/c_projects/fibonnaci/fibonnaci.c",
+  "file": "/home/troy/c_projects/c_projects/fibonnaci/fibonnaci.c"
+}
+]

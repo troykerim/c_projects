@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/fibonnaci.dir/fibonnaci.c.o -o fibonnaci 
