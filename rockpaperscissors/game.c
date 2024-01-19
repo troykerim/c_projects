@@ -7,35 +7,46 @@
 */
 #include <stdio.h>
 #include <stdlib.h>
-
+#include <time.h>
 
 int main()
 {
-    char choice;
-    char userLetter; // r = rock, p = paper, s = scissor
-    char cpuLetter;
-    int cpuChoice; 
-    int userChoice;
+    // Array of options for the cpu to choose
+    char options[] = {'r', 'p', 's'};
+    int cpu_index, user_index;
+    char cpu_choice, user_choice;
+    char sel;
 
-    /*
-    printf("Would you like to play the game Y or N?\n");
-    scanf("%c", &choice);
-    while(choice != 'n' || choice != 'N')
+
+    srand(time(NULL));
+
+
+    while (sel != 'n' && sel != 'N')
     {
-        printf("You are Playing the game!\n");
-        printf("Do you want to play again? Y or N\n");
-        scanf("%c", &choice);
-        if(choice == 'n' || choice == 'N')
-            break;
+        printf("'0' for rock, '1' for paper, and '2' for scissors\n");
+        printf("Make a selection between 0 and 2: ");
+        scanf("%d", &user_index);
+        if (user_index > 2 || user_index < 0)
+        {
+            printf("Invalid Entry!\n");
+            printf("You must enter: 0, 1 or 2\n");
+            //break;
+        }
+
+        else {
+            cpu_index = rand() % 3;
+
+            cpu_choice = options[cpu_index];
+            user_choice = options[user_index];
+
+            printf("The cpu chose: %c\n", cpu_choice);
+            printf("You chose: %c\n", user_choice);
+        
+        printf("Play again? Y or N\n");
+        scanf(" %c", &sel);
+        }
     }
-    */
-    // printf("You exited the game!\n");
-    
-    cpuChoice = rand() % 3 + 1;
-
-    printf("The cpu chose: %d\n", cpuChoice);
-
-    printf("Make a selection.\n");
+  /*  printf("Make a selection.\n");
     printf("1 for rock, 2 for paper, 3 for scissors: ");
     scanf("%d", &userChoice);
 
@@ -74,6 +85,8 @@ int main()
     }
     else
         printf("CPU won!");
+*/
+
 
 
     return 0;
