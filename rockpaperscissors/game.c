@@ -41,10 +41,11 @@ int main()
 
             printf("The cpu chose: %c\n", cpu_choice);
             printf("You chose: %c\n", user_choice);
-        
+            
+
+        }        
         printf("Play again? Y or N\n");
         scanf(" %c", &sel);
-        }
     }
   /*  printf("Make a selection.\n");
     printf("1 for rock, 2 for paper, 3 for scissors: ");
