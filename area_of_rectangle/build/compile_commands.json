@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/troy/c_projects/c_projects/area_of_rectangle/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/rectangle.dir/rectangle.c.o -c /home/troy/c_projects/c_projects/area_of_rectangle/rectangle.c",
+  "file": "/home/troy/c_projects/c_projects/area_of_rectangle/rectangle.c"
+}
+]
