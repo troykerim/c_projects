@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/vowel_counter.dir/vowel_counter.c.o -o vowel_counter 

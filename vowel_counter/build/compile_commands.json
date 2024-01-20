@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/troy/c_projects/c_projects/vowel_counter/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/vowel_counter.dir/vowel_counter.c.o -c /home/troy/c_projects/c_projects/vowel_counter/vowel_counter.c",
+  "file": "/home/troy/c_projects/c_projects/vowel_counter/vowel_counter.c"
+}
+]
