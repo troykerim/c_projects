@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/random_cpu_num.dir/random_cpu_num.c.o -o random_cpu_num 

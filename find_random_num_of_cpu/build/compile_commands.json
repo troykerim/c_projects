@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/troy/c_projects/c_projects/find_random_num_of_cpu/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/random_cpu_num.dir/random_cpu_num.c.o -c /home/troy/c_projects/c_projects/find_random_num_of_cpu/random_cpu_num.c",
+  "file": "/home/troy/c_projects/c_projects/find_random_num_of_cpu/random_cpu_num.c"
+}
+]
