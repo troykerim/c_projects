@@ -40,7 +40,8 @@ int main()
 
     char uppercase[] = {'A' ,'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', '\0'};
     char lowercase[] = {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', '\0'};
-
+    char nums[] = {'0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '\0'};
+    char special[] = {'!', '@', '#', '$', '%', '^', '&', '*', '(', ')', '\0'};
     // or use: char uppercase[] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     // or use: char lowercase[] = "abcdefghijklmnopqrstuvwxyz";
     
@@ -52,7 +53,7 @@ int main()
     if(size <= 0)
     {
         printf("Error! Size should be a positive number.\n");
-        printf("Exiting Program!");
+        printf("Exiting Program!\n");
         return 1; // Exit program with error code.
     }
 
@@ -62,15 +63,25 @@ int main()
 
     for (int i = 0; i < size; i++)
     {
-        int sel = rand() % 2;
+        int sel = rand() % 4;
         index = rand() % 26;
+        
         if (sel == 0)
         {
            password[i] = uppercase[index]; 
         }
+        else if (sel == 1)
+        {
+            password[i] = lowercase[index]; 
+        }
+        else if (sel == 2)
+        {
+            password[i] = nums[index];
+        }
         else
-            password[i] = lowercase[index];
-        
+            password[i] = special[index];
+            
+        // password[i] = uppercase[index];
     }
 
     password[size] = '\0'; // Null-terminate the password
