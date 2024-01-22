@@ -1,0 +1,3 @@
+/home/troy/c_projects/c_projects/count_number_of_words/build/CMakeFiles/word_counter.dir
+/home/troy/c_projects/c_projects/count_number_of_words/build/CMakeFiles/edit_cache.dir
+/home/troy/c_projects/c_projects/count_number_of_words/build/CMakeFiles/rebuild_cache.dir

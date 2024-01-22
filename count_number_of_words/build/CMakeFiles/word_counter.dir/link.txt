@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/word_counter.dir/word_counter.c.o -o word_counter 
