@@ -20,9 +20,10 @@
     Generate a password with only lowercase
 
     (Version 3):
-    Generate a password with both uppercase and lowercase
+    Generate a password with both uppercase and lowercase 
 
-    (Version 2):
+
+    (Future):
     User only asks for uppercase, lowercase and numbers w/o special characters
     The other option, with the above 3 with special characters
 */
@@ -42,6 +43,7 @@ int main()
     char lowercase[] = {'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z', '\0'};
     char nums[] = {'0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '\0'};
     char special[] = {'!', '@', '#', '$', '%', '^', '&', '*', '(', ')', '\0'};
+
     // or use: char uppercase[] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
     // or use: char lowercase[] = "abcdefghijklmnopqrstuvwxyz";
     
@@ -81,7 +83,7 @@ int main()
         else
             password[i] = special[index];
             
-        // password[i] = uppercase[index];
+        
     }
 
     password[size] = '\0'; // Null-terminate the password
