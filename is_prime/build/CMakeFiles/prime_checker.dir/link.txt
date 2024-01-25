@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/prime_checker.dir/prime_checker.c.o -o prime_checker 
