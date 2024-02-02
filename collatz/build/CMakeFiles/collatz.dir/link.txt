@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/collatz.dir/collatz.c.o -o collatz 
