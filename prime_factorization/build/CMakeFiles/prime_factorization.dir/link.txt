@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/prime_factorization.dir/prime_factorization.c.o -o prime_factorization 
