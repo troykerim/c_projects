@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/armstrong.dir/armstrong.c.o -o armstrong  -lm 

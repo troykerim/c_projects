@@ -1,0 +1,3 @@
+/home/troy/c_projects/c_projects/armstrong_numbers/build/CMakeFiles/armstrong.dir
+/home/troy/c_projects/c_projects/armstrong_numbers/build/CMakeFiles/edit_cache.dir
+/home/troy/c_projects/c_projects/armstrong_numbers/build/CMakeFiles/rebuild_cache.dir
