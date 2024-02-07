@@ -1,0 +1,3 @@
+/home/troy/c_projects/c_projects/decimal2binary/build/CMakeFiles/decimal2binary.dir
+/home/troy/c_projects/c_projects/decimal2binary/build/CMakeFiles/edit_cache.dir
+/home/troy/c_projects/c_projects/decimal2binary/build/CMakeFiles/rebuild_cache.dir

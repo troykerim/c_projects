@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/troy/c_projects/c_projects/decimal2binary/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/decimal2binary.dir/decimal2binary.c.o -c /home/troy/c_projects/c_projects/decimal2binary/decimal2binary.c",
+  "file": "/home/troy/c_projects/c_projects/decimal2binary/decimal2binary.c"
+}
+]
