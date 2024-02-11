@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/troy/c_projects/c_projects/calculator/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/calculator.dir/calculator.c.o -c /home/troy/c_projects/c_projects/calculator/calculator.c",
+  "file": "/home/troy/c_projects/c_projects/calculator/calculator.c"
+}
+]

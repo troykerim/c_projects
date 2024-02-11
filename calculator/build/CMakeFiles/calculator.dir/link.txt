@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/calculator.dir/calculator.c.o -o calculator 
