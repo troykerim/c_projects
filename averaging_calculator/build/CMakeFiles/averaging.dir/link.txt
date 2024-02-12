@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/averaging.dir/averaging.c.o -o averaging 

@@ -1,0 +1,3 @@
+/home/troy/c_projects/c_projects/averaging_calculator/build/CMakeFiles/averaging.dir
+/home/troy/c_projects/c_projects/averaging_calculator/build/CMakeFiles/edit_cache.dir
+/home/troy/c_projects/c_projects/averaging_calculator/build/CMakeFiles/rebuild_cache.dir
