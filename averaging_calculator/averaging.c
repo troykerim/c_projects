@@ -11,6 +11,10 @@
     Note: In order for median to work properly, the data array should be sorted.
 
 
+    Not implemented yet
+    Mode = which numbers appear the most in the data set
+
+
     V2: In the future I would like to clean up this code.
 */
 #include <stdio.h>
