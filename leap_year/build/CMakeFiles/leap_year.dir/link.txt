@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/leap_year.dir/leap_year.c.o -o leap_year 
