@@ -1,0 +1,3 @@
+/home/troy/c_projects/c_projects/areas/build/CMakeFiles/areas.dir
+/home/troy/c_projects/c_projects/areas/build/CMakeFiles/edit_cache.dir
+/home/troy/c_projects/c_projects/areas/build/CMakeFiles/rebuild_cache.dir

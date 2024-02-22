@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/areas.dir/areas.c.o -o areas 
