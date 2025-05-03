@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/fizzbuzz.dir/fizzbuzz.c.o -o fizzbuzz 
