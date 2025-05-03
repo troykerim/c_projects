@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/bin_search.dir/bin_search.c.o -o bin_search 

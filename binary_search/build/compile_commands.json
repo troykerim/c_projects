@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/troy/c_projects/c_projects/binary_search/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/bin_search.dir/bin_search.c.o -c /home/troy/c_projects/c_projects/binary_search/bin_search.c",
+  "file": "/home/troy/c_projects/c_projects/binary_search/bin_search.c"
+}
+]
