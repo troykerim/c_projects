@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/parallel_line.dir/parallel_line.c.o -o parallel_line 
