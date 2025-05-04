@@ -1,0 +1,3 @@
+/home/troy/c_projects/c_projects/binary_search_even/build/CMakeFiles/binary_search_even.dir
+/home/troy/c_projects/c_projects/binary_search_even/build/CMakeFiles/edit_cache.dir
+/home/troy/c_projects/c_projects/binary_search_even/build/CMakeFiles/rebuild_cache.dir

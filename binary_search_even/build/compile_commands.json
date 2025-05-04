@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/troy/c_projects/c_projects/binary_search_even/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/binary_search_even.dir/binary_search_even.c.o -c /home/troy/c_projects/c_projects/binary_search_even/binary_search_even.c",
+  "file": "/home/troy/c_projects/c_projects/binary_search_even/binary_search_even.c"
+}
+]

@@ -80,6 +80,6 @@ int main()
     {
         printf("\nTarget %d was not found at any index.\n", target);
     }
-    
+    free(arr); // prevent memory leak
     return 0;
 }
