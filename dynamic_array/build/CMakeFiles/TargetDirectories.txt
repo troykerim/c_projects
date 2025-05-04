@@ -1,0 +1,3 @@
+/home/troy/c_projects/c_projects/dynamic_array/build/CMakeFiles/dynamic_array.dir
+/home/troy/c_projects/c_projects/dynamic_array/build/CMakeFiles/edit_cache.dir
+/home/troy/c_projects/c_projects/dynamic_array/build/CMakeFiles/rebuild_cache.dir

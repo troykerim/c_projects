@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/troy/c_projects/c_projects/dynamic_array/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/dynamic_array.dir/dynamic_array.c.o -c /home/troy/c_projects/c_projects/dynamic_array/dynamic_array.c",
+  "file": "/home/troy/c_projects/c_projects/dynamic_array/dynamic_array.c"
+}
+]

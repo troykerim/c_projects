@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/dynamic_array.dir/dynamic_array.c.o -o dynamic_array 
