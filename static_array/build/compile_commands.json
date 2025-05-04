@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/troy/c_projects/c_projects/static_array/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/static_array.dir/static_array.c.o -c /home/troy/c_projects/c_projects/static_array/static_array.c",
+  "file": "/home/troy/c_projects/c_projects/static_array/static_array.c"
+}
+]

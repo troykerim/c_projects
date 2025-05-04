@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/static_array.dir/static_array.c.o -o static_array 
