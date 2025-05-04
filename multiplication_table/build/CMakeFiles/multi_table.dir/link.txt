@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/multi_table.dir/multi_table.c.o -o multi_table 

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/troy/c_projects/c_projects/multiplication_table/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/multi_table.dir/multi_table.c.o -c /home/troy/c_projects/c_projects/multiplication_table/multi_table.c",
+  "file": "/home/troy/c_projects/c_projects/multiplication_table/multi_table.c"
+}
+]
