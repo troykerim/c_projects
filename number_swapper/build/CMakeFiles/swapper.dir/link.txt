@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/swapper.dir/swapper.c.o -o swapper  -lm 

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/troy/c_projects/c_projects/number_swapper/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/swapper.dir/swapper.c.o -c /home/troy/c_projects/c_projects/number_swapper/swapper.c",
+  "file": "/home/troy/c_projects/c_projects/number_swapper/swapper.c"
+}
+]
