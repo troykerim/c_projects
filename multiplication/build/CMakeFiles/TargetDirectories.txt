@@ -1,0 +1,3 @@
+/home/troy/c_projects/c_projects/multiplication/build/CMakeFiles/multiply.dir
+/home/troy/c_projects/c_projects/multiplication/build/CMakeFiles/edit_cache.dir
+/home/troy/c_projects/c_projects/multiplication/build/CMakeFiles/rebuild_cache.dir
