@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/is_pair.dir/is_pair.c.o -o is_pair 
