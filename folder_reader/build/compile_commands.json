@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/troy/c_projects/c_projects/folder_reader/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/folder_reader.dir/folder_reader.c.o -c /home/troy/c_projects/c_projects/folder_reader/folder_reader.c",
+  "file": "/home/troy/c_projects/c_projects/folder_reader/folder_reader.c"
+}
+]

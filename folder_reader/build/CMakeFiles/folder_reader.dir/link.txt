@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/folder_reader.dir/folder_reader.c.o -o folder_reader  -lm 

@@ -1,0 +1,3 @@
+/home/troy/c_projects/c_projects/folder_reader/build/CMakeFiles/folder_reader.dir
+/home/troy/c_projects/c_projects/folder_reader/build/CMakeFiles/edit_cache.dir
+/home/troy/c_projects/c_projects/folder_reader/build/CMakeFiles/rebuild_cache.dir
