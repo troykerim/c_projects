@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/longestsubarray.dir/longestsubarray.c.o -o longestsubarray 

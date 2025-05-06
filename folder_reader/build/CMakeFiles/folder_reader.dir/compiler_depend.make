@@ -69,8 +69,23 @@ CMakeFiles/folder_reader.dir/folder_reader.c.o: ../folder_reader.c \
   /usr/include/x86_64-linux-gnu/bits/dirent_ext.h \
   /usr/include/x86_64-linux-gnu/sys/stat.h \
   /usr/include/x86_64-linux-gnu/bits/stat.h \
-  /usr/include/x86_64-linux-gnu/bits/struct_stat.h
+  /usr/include/x86_64-linux-gnu/bits/struct_stat.h \
+  /usr/include/unistd.h \
+  /usr/include/x86_64-linux-gnu/bits/posix_opt.h \
+  /usr/include/x86_64-linux-gnu/bits/environments.h \
+  /usr/include/x86_64-linux-gnu/bits/confname.h \
+  /usr/include/x86_64-linux-gnu/bits/getopt_posix.h \
+  /usr/include/x86_64-linux-gnu/bits/getopt_core.h \
+  /usr/include/x86_64-linux-gnu/bits/unistd_ext.h
 
+
+/usr/include/x86_64-linux-gnu/bits/unistd_ext.h:
+
+/usr/include/x86_64-linux-gnu/bits/confname.h:
+
+/usr/include/x86_64-linux-gnu/bits/posix_opt.h:
+
+/usr/include/unistd.h:
 
 /usr/include/x86_64-linux-gnu/bits/struct_stat.h:
 
@@ -112,6 +127,8 @@ CMakeFiles/folder_reader.dir/folder_reader.c.o: ../folder_reader.c \
 
 /usr/lib/gcc/x86_64-linux-gnu/11/include/stdarg.h:
 
+/usr/include/x86_64-linux-gnu/bits/getopt_core.h:
+
 /usr/include/x86_64-linux-gnu/bits/timesize.h:
 
 /usr/include/x86_64-linux-gnu/bits/stdio_lim.h:
@@ -127,6 +144,8 @@ CMakeFiles/folder_reader.dir/folder_reader.c.o: ../folder_reader.c \
 /usr/include/x86_64-linux-gnu/bits/floatn-common.h:
 
 /usr/include/strings.h:
+
+/usr/include/x86_64-linux-gnu/bits/getopt_posix.h:
 
 /usr/include/x86_64-linux-gnu/bits/types/__locale_t.h:
 
@@ -177,6 +196,8 @@ CMakeFiles/folder_reader.dir/folder_reader.c.o: ../folder_reader.c \
 /usr/include/string.h:
 
 /usr/include/x86_64-linux-gnu/bits/endian.h:
+
+/usr/include/x86_64-linux-gnu/bits/environments.h:
 
 /usr/include/x86_64-linux-gnu/sys/select.h:
 

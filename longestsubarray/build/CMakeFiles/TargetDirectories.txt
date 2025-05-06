@@ -1,0 +1,3 @@
+/home/troy/c_projects/c_projects/longestsubarray/build/CMakeFiles/longestsubarray.dir
+/home/troy/c_projects/c_projects/longestsubarray/build/CMakeFiles/edit_cache.dir
+/home/troy/c_projects/c_projects/longestsubarray/build/CMakeFiles/rebuild_cache.dir

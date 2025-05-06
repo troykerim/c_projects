@@ -61,5 +61,16 @@ int main() {
 
     closedir(dir);
     printf("Total project folders: %d\n", count);
+    if(count >= 50)
+    {
+        printf("\nCongratulations, you have reach the 50 project milestone that BigBoxSWE offered.\n");
+    }
+    else 
+    {
+        printf("Sorry. You have not do enough projects to finish the BigBoxSWE challenge.\n");
+        printf("You have %d projects left to do!\n", (50 - count));
+    }
+
+
     return 0;
 }
