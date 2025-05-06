@@ -1,0 +1,3 @@
+/home/troy/c_projects/c_projects/string_counter/build/CMakeFiles/counter.dir
+/home/troy/c_projects/c_projects/string_counter/build/CMakeFiles/edit_cache.dir
+/home/troy/c_projects/c_projects/string_counter/build/CMakeFiles/rebuild_cache.dir
