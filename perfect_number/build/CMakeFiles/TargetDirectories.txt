@@ -1,0 +1,3 @@
+/home/troy/c_projects/c_projects/perfect_number/build/CMakeFiles/perfect_number.dir
+/home/troy/c_projects/c_projects/perfect_number/build/CMakeFiles/edit_cache.dir
+/home/troy/c_projects/c_projects/perfect_number/build/CMakeFiles/rebuild_cache.dir

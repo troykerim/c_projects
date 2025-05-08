@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/perfect_number.dir/perfect_number.c.o -o perfect_number 

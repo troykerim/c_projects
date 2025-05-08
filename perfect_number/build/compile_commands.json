@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/troy/c_projects/c_projects/perfect_number/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/perfect_number.dir/perfect_number.c.o -c /home/troy/c_projects/c_projects/perfect_number/perfect_number.c",
+  "file": "/home/troy/c_projects/c_projects/perfect_number/perfect_number.c"
+}
+]
