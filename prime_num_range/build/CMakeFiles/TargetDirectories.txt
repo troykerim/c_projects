@@ -1,0 +1,3 @@
+/home/troy/c_projects/c_projects/prime_num_range/build/CMakeFiles/prime.dir
+/home/troy/c_projects/c_projects/prime_num_range/build/CMakeFiles/edit_cache.dir
+/home/troy/c_projects/c_projects/prime_num_range/build/CMakeFiles/rebuild_cache.dir

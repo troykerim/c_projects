@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/prime.dir/prime.c.o -o prime 

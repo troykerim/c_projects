@@ -1,0 +1,3 @@
+/home/troy/c_projects/c_projects/sum_of_odds/build/CMakeFiles/sum_of_odds.dir
+/home/troy/c_projects/c_projects/sum_of_odds/build/CMakeFiles/edit_cache.dir
+/home/troy/c_projects/c_projects/sum_of_odds/build/CMakeFiles/rebuild_cache.dir

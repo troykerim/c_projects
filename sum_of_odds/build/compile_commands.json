@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/troy/c_projects/c_projects/sum_of_odds/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/sum_of_odds.dir/sum_of_odds.c.o -c /home/troy/c_projects/c_projects/sum_of_odds/sum_of_odds.c",
+  "file": "/home/troy/c_projects/c_projects/sum_of_odds/sum_of_odds.c"
+}
+]

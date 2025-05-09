@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/sum_of_odds.dir/sum_of_odds.c.o -o sum_of_odds 
