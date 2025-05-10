@@ -1,0 +1,3 @@
+/home/troy/c_projects/c_projects/grain_chessboard/build/CMakeFiles/grain.dir
+/home/troy/c_projects/c_projects/grain_chessboard/build/CMakeFiles/edit_cache.dir
+/home/troy/c_projects/c_projects/grain_chessboard/build/CMakeFiles/rebuild_cache.dir

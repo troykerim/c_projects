@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/grain.dir/grain.c.o -o grain 

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/troy/c_projects/c_projects/grain_chessboard/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/grain.dir/grain.c.o -c /home/troy/c_projects/c_projects/grain_chessboard/grain.c",
+  "file": "/home/troy/c_projects/c_projects/grain_chessboard/grain.c"
+}
+]
