@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/arithmetic.dir/arithmetic.c.o -o arithmetic 
