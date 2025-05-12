@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/troy/c_projects/c_projects/duplicate_array/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/dup_array.dir/dup_array.c.o -c /home/troy/c_projects/c_projects/duplicate_array/dup_array.c",
+  "file": "/home/troy/c_projects/c_projects/duplicate_array/dup_array.c"
+}
+]

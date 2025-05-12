@@ -4,5 +4,6 @@ This repository BigBoxSWE's 50 programming projects challenge from: (https://www
 
 These C programs are built using CMake. 
 
-The task is to do at least 50 programming projects that are under 100 lines. Avoid boilerplate
+The task is to do at least 50 programming projects that are under 100 lines. Avoid boilerplate code. 
 Tiny problems can lead into full scale projects once you piece them together.
+
