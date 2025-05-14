@@ -1,0 +1,3 @@
+/home/troy/c_projects/c_projects/count_nums2/build/CMakeFiles/count.dir
+/home/troy/c_projects/c_projects/count_nums2/build/CMakeFiles/edit_cache.dir
+/home/troy/c_projects/c_projects/count_nums2/build/CMakeFiles/rebuild_cache.dir
