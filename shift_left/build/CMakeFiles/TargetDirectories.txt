@@ -1,0 +1,3 @@
+/home/troy/c_projects/c_projects/shift_left/build/CMakeFiles/shift.dir
+/home/troy/c_projects/c_projects/shift_left/build/CMakeFiles/edit_cache.dir
+/home/troy/c_projects/c_projects/shift_left/build/CMakeFiles/rebuild_cache.dir

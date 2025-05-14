@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/shift.dir/shift.c.o -o shift 
