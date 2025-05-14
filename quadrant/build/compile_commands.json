@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/troy/c_projects/c_projects/quadrant/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/quadrant.dir/quadrant.c.o -c /home/troy/c_projects/c_projects/quadrant/quadrant.c",
+  "file": "/home/troy/c_projects/c_projects/quadrant/quadrant.c"
+}
+]
