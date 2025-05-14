@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/troy/c_projects/c_projects/math_series/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/series.dir/series.c.o -c /home/troy/c_projects/c_projects/math_series/series.c",
+  "file": "/home/troy/c_projects/c_projects/math_series/series.c"
+}
+]

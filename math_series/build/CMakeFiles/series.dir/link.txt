@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/series.dir/series.c.o -o series 

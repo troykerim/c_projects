@@ -1,0 +1,3 @@
+/home/troy/c_projects/c_projects/math_series/build/CMakeFiles/series.dir
+/home/troy/c_projects/c_projects/math_series/build/CMakeFiles/edit_cache.dir
+/home/troy/c_projects/c_projects/math_series/build/CMakeFiles/rebuild_cache.dir
