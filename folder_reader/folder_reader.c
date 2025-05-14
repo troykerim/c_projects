@@ -67,7 +67,7 @@ int main() {
     }
     else 
     {
-        printf("Sorry. You have not do enough projects to finish the BigBoxSWE challenge.\n");
+        printf("Sorry. You have not finished enough projects to have completed BigBoxSWE's challenge.\n");
         printf("You have %d projects left to do!\n", (50 - count));
     }
 
