@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/troy/c_projects/c_projects/array_reversal/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/array_rev.dir/array_rev.c.o -c /home/troy/c_projects/c_projects/array_reversal/array_rev.c",
+  "file": "/home/troy/c_projects/c_projects/array_reversal/array_rev.c"
+}
+]

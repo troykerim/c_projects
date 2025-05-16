@@ -1,0 +1,3 @@
+/home/troy/c_projects/c_projects/array_reversal/build/CMakeFiles/array_rev.dir
+/home/troy/c_projects/c_projects/array_reversal/build/CMakeFiles/edit_cache.dir
+/home/troy/c_projects/c_projects/array_reversal/build/CMakeFiles/rebuild_cache.dir

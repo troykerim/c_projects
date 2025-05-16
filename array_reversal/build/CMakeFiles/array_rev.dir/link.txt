@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/array_rev.dir/array_rev.c.o -o array_rev 
