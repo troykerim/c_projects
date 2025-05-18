@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/replace.dir/replace.c.o -o replace 

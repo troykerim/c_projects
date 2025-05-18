@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/troy/c_projects/c_projects/negative_replacement/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/replace.dir/replace.c.o -c /home/troy/c_projects/c_projects/negative_replacement/replace.c",
+  "file": "/home/troy/c_projects/c_projects/negative_replacement/replace.c"
+}
+]
