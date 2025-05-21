@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/troy/c_projects/c_projects/list_of_squares/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/squares.dir/squares.c.o -c /home/troy/c_projects/c_projects/list_of_squares/squares.c",
+  "file": "/home/troy/c_projects/c_projects/list_of_squares/squares.c"
+}
+]

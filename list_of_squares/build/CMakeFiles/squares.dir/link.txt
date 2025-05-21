@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/squares.dir/squares.c.o -o squares 
