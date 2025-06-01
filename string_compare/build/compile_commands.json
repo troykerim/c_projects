@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/troy/c_projects/c_projects/string_compare/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/string_compare.dir/string_compare.c.o -c /home/troy/c_projects/c_projects/string_compare/string_compare.c",
+  "file": "/home/troy/c_projects/c_projects/string_compare/string_compare.c"
+}
+]

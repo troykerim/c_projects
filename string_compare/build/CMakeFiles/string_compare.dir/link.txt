@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/string_compare.dir/string_compare.c.o -o string_compare 
