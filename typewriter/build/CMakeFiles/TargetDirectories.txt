@@ -1,0 +1,3 @@
+/home/troy/c_projects/c_projects/typewriter/build/CMakeFiles/typewriter.dir
+/home/troy/c_projects/c_projects/typewriter/build/CMakeFiles/edit_cache.dir
+/home/troy/c_projects/c_projects/typewriter/build/CMakeFiles/rebuild_cache.dir

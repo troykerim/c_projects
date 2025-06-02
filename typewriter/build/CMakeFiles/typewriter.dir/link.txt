@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/typewriter.dir/typewriter.c.o -o typewriter 
