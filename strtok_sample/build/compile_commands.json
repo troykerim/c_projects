@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/troy/c_projects/c_projects/strtok_sample/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/strtok.dir/strtok.c.o -c /home/troy/c_projects/c_projects/strtok_sample/strtok.c",
+  "file": "/home/troy/c_projects/c_projects/strtok_sample/strtok.c"
+}
+]

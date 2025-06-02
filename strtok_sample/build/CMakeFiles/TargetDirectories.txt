@@ -1,0 +1,3 @@
+/home/troy/c_projects/c_projects/strtok_sample/build/CMakeFiles/strtok.dir
+/home/troy/c_projects/c_projects/strtok_sample/build/CMakeFiles/edit_cache.dir
+/home/troy/c_projects/c_projects/strtok_sample/build/CMakeFiles/rebuild_cache.dir
