@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/troy/c_projects/c_projects/progress_bar/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/progress.dir/progress.c.o -c /home/troy/c_projects/c_projects/progress_bar/progress.c",
+  "file": "/home/troy/c_projects/c_projects/progress_bar/progress.c"
+}
+]
