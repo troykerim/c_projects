@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/troy/c_projects/c_projects/pyramid/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/pyramid.dir/pyramid.c.o -c /home/troy/c_projects/c_projects/pyramid/pyramid.c",
+  "file": "/home/troy/c_projects/c_projects/pyramid/pyramid.c"
+}
+]

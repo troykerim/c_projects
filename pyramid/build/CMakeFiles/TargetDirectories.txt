@@ -1,0 +1,3 @@
+/home/troy/c_projects/c_projects/pyramid/build/CMakeFiles/pyramid.dir
+/home/troy/c_projects/c_projects/pyramid/build/CMakeFiles/edit_cache.dir
+/home/troy/c_projects/c_projects/pyramid/build/CMakeFiles/rebuild_cache.dir

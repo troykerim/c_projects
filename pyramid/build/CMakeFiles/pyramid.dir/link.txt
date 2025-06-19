@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/pyramid.dir/pyramid.c.o -o pyramid 
