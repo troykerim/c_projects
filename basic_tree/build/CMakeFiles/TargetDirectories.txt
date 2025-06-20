@@ -1,0 +1,3 @@
+/home/troy/c_projects/c_projects/basic_tree/build/CMakeFiles/tree.dir
+/home/troy/c_projects/c_projects/basic_tree/build/CMakeFiles/edit_cache.dir
+/home/troy/c_projects/c_projects/basic_tree/build/CMakeFiles/rebuild_cache.dir
