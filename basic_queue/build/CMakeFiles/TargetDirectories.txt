@@ -1,0 +1,3 @@
+/home/troy/c_projects/c_projects/basic_queue/build/CMakeFiles/queue.dir
+/home/troy/c_projects/c_projects/basic_queue/build/CMakeFiles/edit_cache.dir
+/home/troy/c_projects/c_projects/basic_queue/build/CMakeFiles/rebuild_cache.dir
