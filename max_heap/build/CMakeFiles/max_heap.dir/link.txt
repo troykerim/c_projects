@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/max_heap.dir/max_heap.c.o -o max_heap 
