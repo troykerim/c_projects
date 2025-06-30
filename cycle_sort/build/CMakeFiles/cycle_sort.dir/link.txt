@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/cycle_sort.dir/cycle_sort.c.o -o cycle_sort 
