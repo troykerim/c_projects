@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/lex.dir/lex.c.o -o lex 

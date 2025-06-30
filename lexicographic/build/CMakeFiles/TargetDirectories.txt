@@ -1,0 +1,3 @@
+/home/troy/c_projects/c_projects/lexicographic/build/CMakeFiles/lex.dir
+/home/troy/c_projects/c_projects/lexicographic/build/CMakeFiles/edit_cache.dir
+/home/troy/c_projects/c_projects/lexicographic/build/CMakeFiles/rebuild_cache.dir
