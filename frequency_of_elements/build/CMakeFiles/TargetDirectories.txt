@@ -1,0 +1,3 @@
+/home/troy/c_projects/c_projects/frequency_of_elements/build/CMakeFiles/freq.dir
+/home/troy/c_projects/c_projects/frequency_of_elements/build/CMakeFiles/edit_cache.dir
+/home/troy/c_projects/c_projects/frequency_of_elements/build/CMakeFiles/rebuild_cache.dir

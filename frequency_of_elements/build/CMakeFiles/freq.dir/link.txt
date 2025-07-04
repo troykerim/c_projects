@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/freq.dir/freq.c.o -o freq 
