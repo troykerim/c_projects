@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/troy/c_projects/c_projects/bubble_sort/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/sort.dir/sort.c.o -c /home/troy/c_projects/c_projects/bubble_sort/sort.c",
+  "file": "/home/troy/c_projects/c_projects/bubble_sort/sort.c"
+}
+]

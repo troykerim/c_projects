@@ -1,0 +1,3 @@
+/home/troy/c_projects/c_projects/bubble_sort/build/CMakeFiles/sort.dir
+/home/troy/c_projects/c_projects/bubble_sort/build/CMakeFiles/edit_cache.dir
+/home/troy/c_projects/c_projects/bubble_sort/build/CMakeFiles/rebuild_cache.dir
