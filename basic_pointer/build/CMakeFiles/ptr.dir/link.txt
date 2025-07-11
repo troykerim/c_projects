@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/ptr.dir/ptr.c.o -o ptr 
