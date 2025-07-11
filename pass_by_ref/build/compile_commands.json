@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/troy/c_projects/c_projects/pass_by_ref/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/pass_by_ref.dir/pass_by_ref.c.o -c /home/troy/c_projects/c_projects/pass_by_ref/pass_by_ref.c",
+  "file": "/home/troy/c_projects/c_projects/pass_by_ref/pass_by_ref.c"
+}
+]
