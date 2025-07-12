@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/troy/c_projects/c_projects/add_pointer/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/add_ptr.dir/add_ptr.c.o -c /home/troy/c_projects/c_projects/add_pointer/add_ptr.c",
+  "file": "/home/troy/c_projects/c_projects/add_pointer/add_ptr.c"
+}
+]
