@@ -1,0 +1,3 @@
+/home/troy/c_projects/c_projects/ptr_array/build/CMakeFiles/ptr_struct.dir
+/home/troy/c_projects/c_projects/ptr_array/build/CMakeFiles/edit_cache.dir
+/home/troy/c_projects/c_projects/ptr_array/build/CMakeFiles/rebuild_cache.dir
