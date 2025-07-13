@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/troy/c_projects/c_projects/ptr_struct/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/ptr_struct.dir/ptr_struct.c.o -c /home/troy/c_projects/c_projects/ptr_struct/ptr_struct.c",
+  "file": "/home/troy/c_projects/c_projects/ptr_struct/ptr_struct.c"
+}
+]

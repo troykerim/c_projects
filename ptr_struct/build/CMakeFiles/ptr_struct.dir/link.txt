@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/ptr_struct.dir/ptr_struct.c.o -o ptr_struct 
