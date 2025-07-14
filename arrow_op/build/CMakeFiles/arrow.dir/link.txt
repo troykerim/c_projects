@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/arrow.dir/arrow.c.o -o arrow 
