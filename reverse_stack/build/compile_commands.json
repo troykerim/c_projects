@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/troy/c_projects/c_projects/reverse_stack/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/reverse_stack.dir/reverse_stack.c.o -c /home/troy/c_projects/c_projects/reverse_stack/reverse_stack.c",
+  "file": "/home/troy/c_projects/c_projects/reverse_stack/reverse_stack.c"
+}
+]

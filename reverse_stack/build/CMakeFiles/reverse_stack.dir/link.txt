@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/reverse_stack.dir/reverse_stack.c.o -o reverse_stack 

@@ -1,0 +1,3 @@
+/home/troy/c_projects/c_projects/reverse_stack/build/CMakeFiles/reverse_stack.dir
+/home/troy/c_projects/c_projects/reverse_stack/build/CMakeFiles/edit_cache.dir
+/home/troy/c_projects/c_projects/reverse_stack/build/CMakeFiles/rebuild_cache.dir
