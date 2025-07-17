@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/troy/c_projects/c_projects/student_record_management/build",
+  "command": "/usr/bin/cc   -std=gnu11 -o CMakeFiles/record.dir/record.c.o -c /home/troy/c_projects/c_projects/student_record_management/record.c",
+  "file": "/home/troy/c_projects/c_projects/student_record_management/record.c"
+}
+]

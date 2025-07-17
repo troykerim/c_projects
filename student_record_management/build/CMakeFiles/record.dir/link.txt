@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/record.dir/record.c.o -o record 

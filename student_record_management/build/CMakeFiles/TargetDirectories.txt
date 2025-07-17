@@ -1,0 +1,3 @@
+/home/troy/c_projects/c_projects/student_record_management/build/CMakeFiles/record.dir
+/home/troy/c_projects/c_projects/student_record_management/build/CMakeFiles/edit_cache.dir
+/home/troy/c_projects/c_projects/student_record_management/build/CMakeFiles/rebuild_cache.dir
